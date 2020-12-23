@@ -10,8 +10,8 @@ unsigned long long prev_millis(0);
 
 #define country_code "Turkey"
 
-const char* ssid = "hemirsen";              //WIFI SSID Name                             
-const char* password = "Ygtmsjyp1";        //WIFI Password
+const char* ssid = "**";              //WIFI SSID Name                             
+const char* password = "**";        //WIFI Password
 
 WiFiClient client;      // WiFi client and http client                                                     
 HTTPClient http; 
