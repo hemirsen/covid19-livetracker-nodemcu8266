@@ -2,4 +2,4 @@
 Covid-19 live data displaying on 2x16 LCD. 
 
 
-![alt text](https://hizliresim.com/IISHg0)
+![alt text](https://i.hizliresim.com/IISHg0.png)
